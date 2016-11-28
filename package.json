@@ -1,0 +1,23 @@
+{
+  "name": "biotron",
+  "version": "0.0.1",
+  "description": "biotron",
+  "keywords": [
+    "biotron"
+  ],
+  "author": {
+    "name": "streamsure/biotron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/streamsure/biotron"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": false
+}
